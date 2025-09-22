@@ -244,7 +244,8 @@ if   __name__ == "__main__":
         time.sleep(3)
 ```
 ## OUTPUT:
-<img width="775" height="245" alt="image" src="https://github.com/user-attachments/assets/425955c8-ec0c-46fc-9c32-f389a8f726d5" />
+<img width="816" height="334" alt="image" src="https://github.com/user-attachments/assets/22ab1cf1-f51e-4346-bafd-a97dc25ae6bc" />
+
 
 
 ## RESULT:
